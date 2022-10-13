@@ -47,22 +47,6 @@
       "distance": 2,
       "timeSpent": 20,
       "favorite": false
-    },
-    {
-      "id": 7,
-      "date": "09/12/2022",
-      "workoutType": "Swimming",
-      "distance": 2,
-      "timeSpent": 20,
-      "favorite": true
-    },
-    {
-      "id": 8,
-      "date": "09/14/2022",
-      "distance": "69",
-      "timeSpent": "100",
-      "workoutType": "Walking",
-      "favorite": false
     }
   ]
 }
